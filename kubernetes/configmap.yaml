@@ -1,0 +1,9 @@
+
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: backend-config
+  namespace: kubeshop
+data:
+  DB_URL: jdbc:postgresql://postgres-service:5432/kubeshop
+  DB_USERNAME: kubeshop
