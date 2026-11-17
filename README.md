@@ -92,7 +92,8 @@ kubeshop-kubernetes-lab/
 │
 ├── frontend/
 │   ├── Dockerfile
-│   └── index.html
+│   ├── index.html
+│   └── nginx.conf
 │
 ├── backend/
 │
@@ -108,11 +109,6 @@ kubeshop-kubernetes-lab/
 │   ├── configmap.yaml
 │   ├── secret.yaml
 │   └── ingress.yaml
-│
-├── helm/
-│
-├── .github/
-│   └── workflows/
 │
 └── README.md
 ```

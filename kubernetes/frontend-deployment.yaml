@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
         - name: frontend
-          image: kubeshop-frontend:v1
+          image: kubeshop-frontend:v3
           imagePullPolicy: IfNotPresent
           ports:
             - containerPort: 80
