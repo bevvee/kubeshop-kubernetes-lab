@@ -251,6 +251,6 @@ The project will continue to evolve with:
 
 ---
 
-\<p align="center">
-&#x20; \<strong>Learning by building, one deployment at a time.\</strong>
-\</p>
+<p align="center">
+&#x20; <strong>Learning by building, one deployment at a time.</strong>
+</p>
