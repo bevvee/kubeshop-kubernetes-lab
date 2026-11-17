@@ -232,12 +232,9 @@ Through this project, I am exploring:
 
 The project will continue to evolve with:
 
-1. Complete frontend and backend integration.
-2. Database deployment and persistent data management.
-3. Ingress configuration and application routing.
-4. Helm-based application deployment.
-5. Automated build and deployment pipelines.
-6. Monitoring and logging integration.
+1. Helm-based application deployment.
+2. Automated build and deployment pipelines.
+3. Monitoring and logging integration.
 
 ## Author
 
