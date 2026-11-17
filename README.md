@@ -209,14 +209,11 @@ This project is actively under development.
 - [x] Configure two frontend replicas.
 - [x] Expose the frontend using a Kubernetes Service.
 - [x] Access the application using port-forwarding.
-- [ ] Deploy the backend application.
-- [ ] Deploy PostgreSQL using StatefulSet.
-- [ ] Configure persistent storage using PVC.
-- [ ] Manage configuration using ConfigMaps and Secrets.
-- [ ] Configure Ingress for HTTP routing.
-- [ ] Create Helm charts.
-- [ ] Implement CI/CD with GitHub Actions.
-- [ ] Complete documentation and deployment testing.
+- [x] Deploy the backend application.
+- [x] Deploy PostgreSQL using StatefulSet.
+- [x] Configure persistent storage using PVC.
+- [x] Manage configuration using ConfigMaps and Secrets.
+- [x] Configure Ingress for HTTP routing.
 
 ## What I Am Learning
 
